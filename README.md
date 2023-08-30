@@ -8,6 +8,7 @@ Code is geschreven in Lua
 * Responsive interface
 * Contextuele inputverwerking
 * Animaties
+* Custom Rigs
 
 ---
 
