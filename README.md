@@ -35,6 +35,8 @@ Bevat code voor:
 ![Screenshot](https://github.com/RubenTheCoder/Roblox-Mining-game-attempt-2/assets/130549492/e94b020a-e08d-4333-ab4b-1188009001b6)
 Een speler staat klaar om te gaan mijnen
 
+<br>
+
 ![Screenshot](https://github.com/RubenTheCoder/Roblox-Mining-game-attempt-2/assets/130549492/2c828ede-4339-409c-8f96-e911803db16e)
 De speler heeft erts gevonden. Hoera!
 
